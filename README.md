@@ -1,1 +1,1 @@
-# odin-form
+Quick office themed form practice. Layout made with flexbox, practiced mostly forms and positioning. Implemented some basic server side validation and some transition effects for the input fields.
